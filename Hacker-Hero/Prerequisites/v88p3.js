@@ -1,4 +1,4 @@
-function printOdd3to20(){
+function printEven4to22(){
 	// Enter code below
 	var even = 2
 	while (even < 22){
