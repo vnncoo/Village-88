@@ -1,8 +1,11 @@
-function printOdd3to20(){
+function printEven4to22(){
 	// Enter code below
-	var even = 2
-	while (even < 22){
-		even = even + 2;
-		console.log(even);
-	} 
+	let startingNum = 2;
+	let returNum = 0;
+	for (let i = 0; i < 10; i++){
+		startingNum = startingNum + 2;
+		console.log(startingNum)
+		returNum = returNum + startingNum;
+	}
+	return returNum;
 }
