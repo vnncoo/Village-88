@@ -29,3 +29,4 @@ function greaterThanSecond(arr){
 		return secArr;
 	}
 }
+// Feel free to lmk if I'm wrong about the instructions
